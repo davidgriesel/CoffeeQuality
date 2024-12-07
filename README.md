@@ -1,8 +1,8 @@
 # CoffeeQuality
 
-The Coffee Quality Institute (CQI) is a non-profit organization that is dedicated to improving the quality of coffee and improving the livelihoods of those who produce it. This is done through research, training, and certification programs while supporting sustainability and the development of the specialty coffee industry. 
+The Coffee Quality Institute (CQI) is a non-profit orgnaisation that is dedicated to improving the quality of coffee and the livelihoods of those who produce it. This is done through research, training, and certification programmes while supporting sustainability and the development of the speciality coffee industry.
 
-To further their mission, CQI maintains a web database that serves as a resource for coffee professionals and enthusiasts, offering information on coffee production, processing, sensory evaluation, and other factors influencing coffee quality. By collaborating with coffee growers, processors, roasters, and other stakeholders, CQI aims to enhance coffee quality standards and foster a sustainable global coffee community.
+To further their mission, CQI maintians a database online that serves as a resources for coffee professionals, and other factors influencing coffee quality. By collaborating with coffee growers, processors, roasters, and other stakeholdersm CQI aims to enhance coffee quality standards and foster a sustainable global coffee community.
 
 Dataset obtained from:
 https://www.kaggle.com/datasets/adampq/coffee-quality-with-locations-of-origin/data
@@ -22,7 +22,6 @@ Sensory evaluations:
 - Sweetness: It can be described as caramel-like, fruity, or floral, and is a desirable quality in coffee.
 
 Defects
-
 - Defects are undesirable qualities that can occur in coffee beans during processing or storage. Defects can be categorized into two categories: Category One and Category Two defects.
 - Category One defects are primary defects that can be perceived through visual inspection of the coffee beans. These defects include: Black beans, sour beans, insect-damaged beans, fungus-damaged beans etc.
 - Category Two defects are secondary defects that are more subtle and can only be detected through tasting. These defects include: Over-fermentation, staleness, rancidness, chemical taste etc.
