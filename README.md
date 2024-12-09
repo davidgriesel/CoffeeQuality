@@ -23,7 +23,7 @@ Links to the various contirbutors and sources can be found on [Kaggle](https://w
 - Data sourcing and preparation: Sourcing and preparing open source data for analysis.
 - Exploratory data analysis (EDA): Using Python, visualising relationships, and developing hypotheses based on data patterns.
 - Geospatial analysis: Integratoing and analysing spatial data using shapefiles and Python to create choropleth maps.
-- Machine learning (Supervised and unsupervised: Applying regression techniques for predictive analysis and k-means clustering for pattern discovery, and leveraging statistical evaluation methods and visualisations.
+- Machine learning (Supervised and unsupervised: Applying regression techniques for predictive analysis and k-means clustering for pattern discovery.
 - Time-series analysis: Analysing temporal data through decomposition, stationarity tests, and transformations to enable predictive modeling.
 - Data visualisation and Storytelling: Effectively communicating insights through Tableau dashboards and Python visualisations, ensuring audience engagement and clarity.
 - Project documentation and presentation: Maintaining comprehensive documentation, developing a portfolio-ready GitHub repository, and preparing deliverables tailored for professional presentation.
