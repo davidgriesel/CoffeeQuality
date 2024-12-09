@@ -1,27 +1,33 @@
-# CoffeeQuality
+# CareerFoundry: Data Analytics Course
+Achievement 6
 
-The Coffee Quality Institute (CQI) is a non-profit orgnaisation that is dedicated to improving the quality of coffee and the livelihoods of those who produce it. This is done through research, training, and certification programmes while supporting sustainability and the development of the speciality coffee industry.
+## Overview
+Overview
+The Coffee Quality Institute (CQI) is a non-profit organisation dedicated to improving the quality of coffee and the livelihoods of those who produce it through research, training, and certification programmes, while supporting sustainability and the development of the speciality coffee industry.
 
-To further their mission, CQI maintians a database online that serves as a resources for coffee professionals, and other factors influencing coffee quality. By collaborating with coffee growers, processors, roasters, and other stakeholdersm CQI aims to enhance coffee quality standards and foster a sustainable global coffee community.
 
-Dataset obtained from:
-https://www.kaggle.com/datasets/adampq/coffee-quality-with-locations-of-origin/data
+To further their mission, CQI maintains an online database that serves as a resource for coffee professionals and other factors influencing coffee quality. By collaborating with coffee growers, processors, roasters, and other stakeholders, CQI aims to enhance coffee quality standards and foster a sustainable global coffee community. 
 
 https://www.coffeeinstitute.org
 
+## Use Case
 
-Sensory evaluations:
-- Aroma: Refers to the scent or fragrance of the coffee.
-- Flavor: The flavor of coffee is evaluated based on the taste, including any sweetness, bitterness, acidity, and other flavor notes.
-- Aftertaste: Refers to the lingering taste that remains in the mouth after swallowing the coffee.
-- Acidity: Acidity in coffee refers to the brightness or liveliness of the taste.
-- Body: The body of coffee refers to the thickness or viscosity of the coffee in the mouth.
-- Balance: Balance refers to how well the different flavor components of the coffee work together.
-- Uniformity: Uniformity refers to the consistency of the coffee from cup to cup.
-- Clean Cup: A clean cup refers to a coffee that is free of any off-flavors or defects, such as sourness, mustiness, or staleness.
-- Sweetness: It can be described as caramel-like, fruity, or floral, and is a desirable quality in coffee.
 
-Defects
-- Defects are undesirable qualities that can occur in coffee beans during processing or storage. Defects can be categorized into two categories: Category One and Category Two defects.
-- Category One defects are primary defects that can be perceived through visual inspection of the coffee beans. These defects include: Black beans, sour beans, insect-damaged beans, fungus-damaged beans etc.
-- Category Two defects are secondary defects that are more subtle and can only be detected through tasting. These defects include: Over-fermentation, staleness, rancidness, chemical taste etc.
+## Key Questions
+- Which country makes the best coffee?
+- What is the relationship between quality measures and is it possible to predict the scores of sertain measures, based on the scores of others?
+
+
+## Data
+Obtained an open source dataset that contains detailed information about the species, origin, harvest year, expiration date, variety, color, processing method, and number of quality measures with scores. The dataset is a modified version of an original data scraped from the CQI website.
+
+Links to the various contirbutors and sources can be found at: https://www.kaggle.com/datasets/adampq/coffee-quality-with-locations-of-origin/data
+
+## Skills Demonstrated
+
+
+## Tools Used
+- Python
+- Tableau
+- Excel
+- ChatGPT
