@@ -31,3 +31,6 @@ Links to the various contirbutors and sources can be found at: https://www.kaggl
 - Tableau
 - Excel
 - ChatGPT
+
+## Visualisation
+https://public.tableau.com/views/CoffeeQuality_17336702986480/CoffeeQuality?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
